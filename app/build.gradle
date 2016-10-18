@@ -11,11 +11,20 @@ android {
         versionCode 1
         versionName "1.0"
     }
+    
     buildTypes {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
+    }
+
+    repositories {
+        mavenCentral()
+    }
+
+    dataBinding {
+        enabled = true
     }
 }
 
@@ -23,4 +32,14 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:24.2.0'
+    compile 'com.android.support:support-v4:24.2.1'
+    compile 'com.google.firebase:firebase-core:9.4.0'
+    compile 'com.google.android.gms:play-services-auth:9.4.0'
+    compile 'com.facebook.android:facebook-android-sdk:[4,5)'
+    compile 'id.gits:mvvmcore:0.0.7'
+    compile 'id.gits:baso:0.0.1'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'com.pkmmte.view:circularimageview:1.1'
 }
+
+apply plugin: 'com.google.gms.google-services'

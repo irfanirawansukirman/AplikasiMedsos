@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Medsos App</string>
+    <string name="app_id">208779146203271</string>
+
+    <string name="google_client_oouth">142869902499-tkpg9k5293hg5ce8t128cko7149ii10o.apps.googleusercontent.com</string>
+    <string name="web_api_key">AIzaSyDjdxWG8nqOMt4KAVc040o2wpLWSHG0x6I</string>
+    <!--<string name="google_app_id">1:142869902499:android:568090fe88190029</string>-->
 </resources>

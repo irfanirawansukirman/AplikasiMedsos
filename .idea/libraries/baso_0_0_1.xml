@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="baso-0.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/id.gits/baso/0.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/id.gits/baso/0.0.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/id.gits/baso/0.0.1/7aa7c07b96cdde44adbaf6d64da8be83df9fa0c0/baso-0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

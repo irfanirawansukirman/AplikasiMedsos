@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "142869902499",
+    "firebase_url": "https://medsos-app.firebaseio.com",
+    "project_id": "medsos-app",
+    "storage_bucket": "medsos-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142869902499:android:568090fe88190029",
+        "android_client_info": {
+          "package_name": "com.iriras.medsosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142869902499-tkpg9k5293hg5ce8t128cko7149ii10o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iriras.medsosapp",
+            "certificate_hash": "BB728F989BD4651A8C8D5734CBFD4D5A0C958C35"
+          }
+        },
+        {
+          "client_id": "142869902499-p3s6114v4sgoag6a61n8ecu5c7a5bgqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Ad5FpaLpgOMCy0ghnJy267WoJlcbJF8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142869902499-p3s6114v4sgoag6a61n8ecu5c7a5bgqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
